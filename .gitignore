@@ -1,0 +1,4 @@
+node_modules
+.editorconfig
+tmp/uploads/*
+!tmp/uploads/.gitkeep
